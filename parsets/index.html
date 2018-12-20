@@ -1,0 +1,24 @@
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="d3.parsets.js"></script>
+<link rel="stylesheet" type="text/css" href="d3.parsets.css">
+
+<div id="vis"></div>
+
+<script>
+var chart = d3.parsets()
+      .dimensions(["Q1_角色","Q2_年龄","Q3_在读或已取得学历","Q4_高中的学科偏向","Q5_性别","Q6_对Alpha Go/Master/Zero等目前AI水平的态度？","Q7_再过二十年，AI已经能完成大部分人类的机械劳动时，能完全大部分非设计性工作，你如何看人类工作逐渐被代替的趋势？","Q8_如果再过四十年，AI发展到有了自我意识，有自己独立的思考和判断，能完成一定设计性工作，如编程/绘画/写作，你如何看？","Q9_再过一百年以上，AI真的发展到超越人类能力，能完成许多人类无法完成的工作，如短时间完成小说，完成科学研究等，你如何看？","Q10_如果你能决定一百年后AI发展的发展程度，你觉得什么程度比较合适"])
+      .width(1000)
+      .height(2000)
+      .tension(0.5)
+      .duration(1000);
+      
+var vis = d3.select("#vis").append("svg")
+    .attr("width", chart.width())
+    .attr("height", chart.height());
+
+d3.csv("All_Data_Readable.csv", function(error, csv) {
+  vis.datum(csv).call(chart);
+});
+</script>
+
+<!--  -->
