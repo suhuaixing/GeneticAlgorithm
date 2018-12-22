@@ -15,13 +15,27 @@
 .ribbon path.active { fill-opacity: .9; }
 .ribbon-mouse path { fill-opacity: 0; }
 
-.category-0 { fill: #1f77b4; stroke: #1f77b4; }
-.category-1 { fill: #ff7f0e; stroke: #ff7f0e; }
-.category-2 { fill: #2ca02c; stroke: #2ca02c; }
-.category-3 { fill: #d62728; stroke: #d62728; }
+
+/* .category-0 { fill: #80deea; stroke: #81d4fa; }
+.category-1 { fill: #00bcd4; stroke: #03a9f4; }
+.category-2 { fill: #0097a7; stroke: #0288d1; }
+.category-3 { fill: #006064; stroke: #01579b; }
 .category-4 { fill: #9467bd; stroke: #9467bd; }
 .category-5 { fill: #8c564b; stroke: #8c564b; }
-.category-6 { fill: #e377c2; stroke: #e377c2; }
+.category-6 { fill: #d62728; stroke: #d62728; }
+.category-7 { fill: #7f7f7f; stroke: #7f7f7f; }
+.category-8 { fill: #bcbd22; stroke: #bcbd22; }
+.category-9 { fill: #17becf; stroke: #17becf; } */
+.category-0 { fill: #ff5722; stroke: #ff5722; }
+.category-1 { fill: #ffc107; stroke: #ffc107; }
+.category-2 { fill: #8bc34a; stroke: #8bc34a; }
+.category-3 { fill: #00bcd4; stroke: #00bcd4; }
+
+
+.category-4 { fill: #d3c3b6; stroke: #ff7f0e; }
+.category-5 { fill: #9467bd; stroke: #9467bd; }
+.category-6 { fill: #8c564b; stroke: #8c564b; }
+
 .category-7 { fill: #7f7f7f; stroke: #7f7f7f; }
 .category-8 { fill: #bcbd22; stroke: #bcbd22; }
 .category-9 { fill: #17becf; stroke: #17becf; }
@@ -30,4 +44,8 @@
   background-color: rgba(242, 242, 242, .6);
   position: absolute;
   padding: 5px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
 }
