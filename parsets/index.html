@@ -17,8 +17,8 @@
 <script>
 var chart = d3.parsets()
       .dimensions(["The degree of AI you think should be in 100 years","Attitude towards Alpha Go/Master/Zero","Attitude towards mechanical work is gradually replaced in 20 years","Attitude towards design work is gradually replaced in 40 years","Attitude towards AI will be beyond human beings in 100 years"])
-      .width(1000)
-      .height(760)
+      .width(980)
+      .height(750)
       .tension(1)
       .duration(1000);
       
@@ -33,7 +33,7 @@ d3.csv("All_Data_Readable2.csv", function(error, csv) {
 
 var chart2 = d3.parsets()
       .dimensions(["The degree of AI you think should be in 100 years","Role","Age","Degree","Major subject in high school","Gender"])
-      .width(1000)
+      .width(980)
       .height(760)
       .tension(1)
       .duration(1000);
@@ -49,5 +49,9 @@ d3.csv("All_Data_Readable2.csv", function(error, csv) {
 
 
 </body>
+
+<style>
+
+  </style>
 </html>
 
