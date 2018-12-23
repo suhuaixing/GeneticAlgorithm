@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Survey</title>
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body>
+  <script src="js/d3.v3.min.js"></script>
+<script src="js/d3.parsets.js"></script>
+<link rel="stylesheet" type="text/css" href="d3.parsets.css">
+
+<div id="vis"></div>
+<script>
+var chart = d3.parsets()
+      .dimensions(["The degree of AI you think should be in 100 years","Attitude towards Alpha Go/Master/Zero","Attitude towards mechanical work is gradually replaced in 20 years","Attitude towards design work is gradually replaced in 40 years","Attitude towards AI will be beyond human beings in 100 years"])
+      .width(950)
+      .height(680)
+      .tension(1)
+      .duration(1000);
+      
+var vis = d3.select("#vis").append("svg")
+    .attr("width", chart.width())
+    .attr("height", chart.height());
+
+d3.csv("All_Data_Readable.csv", function(error, csv) {
+  vis.datum(csv).call(chart);
+});
+
+</script>
+
+
+</body>
+
+<style>
+
+  </style>
+</html>
+

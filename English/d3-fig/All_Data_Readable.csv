@@ -1,0 +1,87 @@
+﻿Role,Age,Degree,Major subject in high school,Gender,Attitude towards Alpha Go/Master/Zero,Attitude towards mechanical work is gradually replaced in 20 years,Attitude towards design work is gradually replaced in 40 years,Attitude towards AI will be beyond human beings in 100 years,The degree of AI you think should be in 100 years
+a.Others,30-39,a.Bachelor,b.Sciences,a.Female,b.Unconcerned,a.Expressed concern,a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+a.Others,20-29,a.Bachelor,b.Sciences,a.Female,b.Unconcerned,"b.Some worry, but optimistic",b.Unconcerned,b.Human will be freedom without much limitation,a.Over mechanical work
+a.Others,20-29,a.Bachelor,a.Arts,a.Female,b.Unconcerned,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,a.Over mechanical work
+a.Others,20-29,a.Bachelor,a.Arts,b.Male,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+a.Others,20-29,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+a.Others,30-39,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+a.Others,40+,c.Doctor,b.Sciences,a.Female,c.Excited,c.No much worry,a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+a.Others,40+,a.Bachelor,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+a.Others,20-29,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,c.With the same ability as human beings
+a.Others,40+,a.Bachelor,a.Arts,a.Female,c.Excited,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,c.With the same ability as human beings
+a.Others,20-29,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,d.Beyond human beings
+a.Others,30-39,a.Bachelor,a.Arts,b.Male,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,a.Bachelor,b.Sciences,a.Female,c.Excited,"b.Some worry, but optimistic",b.Unconcerned,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,a.Bachelor,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",b.Unconcerned,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,a.Bachelor,a.Arts,a.Female,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,a.Afraid,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,a.Afraid,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,b.Unconcerned,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,a.Expressed concern,a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,a.Expressed concern,c.Excited,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",c.Excited,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,a.Afraid,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,b.Unconcerned,a.Expressed concern,a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,b.Sciences,a.Female,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,a.Over mechanical work
+b.Students,none,b.Master,a.Arts,a.Female,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,a.Over mechanical work
+b.Students,none,a.Bachelor,b.Sciences,a.Female,c.Excited,"b.Some worry, but optimistic",b.Unconcerned,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,a.Bachelor,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,a.Bachelor,b.Sciences,a.Female,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,a.Afraid,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",a.Afraid,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,a.Afraid,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,a.Afraid,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,a.Expressed concern,a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,a.Afraid,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,b.Unconcerned,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,b.Unconcerned,c.No much worry,c.Excited,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,b.Unconcerned,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,c.No much worry,b.Unconcerned,a.Human will be dominated by AI,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,b.Master,b.Sciences,a.Female,b.Unconcerned,"b.Some worry, but optimistic",b.Unconcerned,b.Human will be freedom without much limitation,b.With the ability of thinking and learning
+b.Students,none,a.Bachelor,b.Sciences,b.Male,c.Excited,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,c.With the same ability as human beings
+b.Students,none,c.Doctor,b.Sciences,b.Male,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,c.With the same ability as human beings
+b.Students,none,c.Doctor,b.Sciences,b.Male,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,a.Female,a.Afraid,a.Expressed concern,a.Afraid,a.Human will be dominated by AI,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,b.Male,a.Afraid,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",c.Excited,b.Human will be freedom without much limitation,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",c.Excited,a.Human will be dominated by AI,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,c.With the same ability as human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,a.Afraid,a.Human will be dominated by AI,c.With the same ability as human beings
+b.Students,none,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",a.Afraid,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,a.Bachelor,b.Sciences,b.Male,b.Unconcerned,c.No much worry,b.Unconcerned,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",b.Unconcerned,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,a.Afraid,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,c.No much worry,c.Excited,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,"b.Some worry, but optimistic",b.Unconcerned,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,c.Excited,a.Expressed concern,c.Excited,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,a.Female,c.Excited,c.No much worry,a.Afraid,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,"b.Some worry, but optimistic",c.Excited,a.Human will be dominated by AI,d.Beyond human beings
+b.Students,none,b.Master,b.Sciences,b.Male,b.Unconcerned,c.No much worry,c.Excited,b.Human will be freedom without much limitation,d.Beyond human beings
