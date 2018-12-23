@@ -1,0 +1,104 @@
+<html>
+<head></head>
+<body>
+
+<div id="pieChart"></div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.7.2/d3.min.js"></script>
+<script src="js/d3pie.min.js"></script>
+<script>
+var pie1 = new d3pie("pieChart", {
+	"header": {
+		"title": {
+			"text": "Role",
+			"fontSize": 47,
+			"font": "Roboto"
+		},
+		"subtitle": {
+			"color": "#999999",
+			"fontSize": 16,
+			"font": "Roboto"
+		},
+		"location": "pie-center",
+		"titleSubtitlePadding": 10
+	},
+	"footer": {
+		"color": "#999999",
+		"fontSize": 10,
+		"font": "Roboto",
+		"location": "bottom-left"
+	},
+	"size": {
+		"canvasWidth": 590,
+		"pieInnerRadius": "81%",
+		"pieOuterRadius": "76%"
+	},
+	"data": {
+		"sortOrder": "label-desc",
+		"content": [
+			{
+				"label": "Others",
+				"value": 12,
+				"color": "#7fbee6"
+			},
+			{
+				"label": "Students",
+				"value": 74,
+				"color": "#31e6cb"
+			}
+		]
+	},
+	"labels": {
+		"outer": {
+			"format": "label-percentage1",
+			"pieDistance": 20
+		},
+		"inner": {
+			"format": "none"
+		},
+		"mainLabel": {
+			"color": "#909090",
+			"fontSize": 32
+		},
+		"percentage": {
+			"color": "#505050",
+			"fontSize": 36,
+			"decimalPlaces": 0
+		},
+		"value": {
+			"color": "#cccc43",
+			"fontSize": 36
+		},
+		"lines": {
+			"enabled": true,
+			"color": "#777777"
+		},
+		"truncation": {
+			"enabled": true
+		}
+	},
+	"effects": {
+		"pullOutSegmentOnClick": {
+			"effect": "linear",
+			"speed": 400,
+			"size": 8
+		}
+	},
+	"misc": {
+		"colors": {
+			"segmentStroke": "#000000"
+		}
+	}
+});
+
+</script>
+
+</body>
+
+<style>
+
+body {
+	text-align: center;
+}
+</style>
+</html>

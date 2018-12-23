@@ -8,17 +8,16 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body>
-  <script src="d3.v3.min.js"></script>
-<script src="d3.parsets.js"></script>
+  <script src="js/d3.v3.min.js"></script>
+<script src="js/d3.parsets.js"></script>
 <link rel="stylesheet" type="text/css" href="d3.parsets.css">
 
 <div id="vis"></div>
-<div id="vis2"></div>
 <script>
 var chart = d3.parsets()
       .dimensions(["The degree of AI you think should be in 100 years","Attitude towards Alpha Go/Master/Zero","Attitude towards mechanical work is gradually replaced in 20 years","Attitude towards design work is gradually replaced in 40 years","Attitude towards AI will be beyond human beings in 100 years"])
-      .width(980)
-      .height(750)
+      .width(950)
+      .height(680)
       .tension(1)
       .duration(1000);
       
@@ -26,25 +25,10 @@ var vis = d3.select("#vis").append("svg")
     .attr("width", chart.width())
     .attr("height", chart.height());
 
-d3.csv("All_Data_Readable2.csv", function(error, csv) {
+d3.csv("All_Data_Readable.csv", function(error, csv) {
   vis.datum(csv).call(chart);
 });
 
-
-var chart2 = d3.parsets()
-      .dimensions(["The degree of AI you think should be in 100 years","Role","Age","Degree","Major subject in high school","Gender"])
-      .width(980)
-      .height(760)
-      .tension(1)
-      .duration(1000);
-      
-var vis2 = d3.select("#vis2").append("svg")
-    .attr("width", chart2.width())
-    .attr("height", chart2.height());
-
-d3.csv("All_Data_Readable2.csv", function(error, csv) {
-  vis2.datum(csv).call(chart2);
-});
 </script>
 
 
