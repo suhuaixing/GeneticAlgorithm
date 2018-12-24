@@ -12,23 +12,23 @@
 <script src="js/d3.parsets.js"></script>
 <link rel="stylesheet" type="text/css" href="d3.parsets.css">
 
-<div id="vis2"></div>
+<div id="vis"></div>
 <script>
-
-var chart2 = d3.parsets()
-      .dimensions(["The degree of AI you think should be in 100 years","Role","Age","Degree","Major subject in high school","Gender"])
+var chart = d3.parsets()
+      .dimensions(["The degree of AI you think should be in 100 years","Attitude towards Alpha Go/Master/Zero","Attitude towards mechanical work is gradually replaced in 20 years","Attitude towards design work is gradually replaced in 40 years","Attitude towards AI will be beyond human beings in 100 years"])
       .width(950)
       .height(680)
       .tension(1)
       .duration(1000);
       
-var vis2 = d3.select("#vis2").append("svg")
-    .attr("width", chart2.width())
-    .attr("height", chart2.height());
+var vis = d3.select("#vis").append("svg")
+    .attr("width", chart.width())
+    .attr("height", chart.height());
 
 d3.csv("All_Data_Readable.csv", function(error, csv) {
-  vis2.datum(csv).call(chart2);
+  vis.datum(csv).call(chart);
 });
+
 </script>
 
 
